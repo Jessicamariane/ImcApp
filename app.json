@@ -1,0 +1,12 @@
+{
+  "name": "ImcApp",
+  "displayName": "ImcApp",
+  "expo": {
+    "name": "ImcApp",
+    "slug": "ImcApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
